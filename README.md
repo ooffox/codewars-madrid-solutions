@@ -3,3 +3,6 @@ Contest solutions and placings for each iteration of HP Codewars inside of Spain
 
 <h2>Spanish</h2>
 Solucionarios y puestos para cada iteracion de HP Codewars dentro de España que yo haya sido capaz de encontrar.
+
+<h3>Credit</h3>
+Madrid 2018 problems https://github.com/angelsenra/hpcodewars-madrid-2018
