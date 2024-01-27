@@ -16,8 +16,9 @@ NOTA: Madrid2018.pdf no incluye soluciones y ha sido levemente garabateada ya qu
 Madrid 2018 problems https://github.com/angelsenra/hpcodewars-madrid-2018
 
 
-
-
+<h3>Missing files</h3>
 So far missing the following:
-Madrid 2019, Exercises and results
-Leon 2018-2019, Exercises and results
+
+- Madrid 2019, Exercises and results
+
+- Leon 2018-2019, Exercises and results
