@@ -14,7 +14,10 @@ NOTA: Madrid2018.pdf no incluye soluciones y ha sido levemente garabateada ya qu
 
 <h3>Credit</h3>
 Madrid 2018 problems https://github.com/angelsenra/hpcodewars-madrid-2018
-\n\n
+
+
+
+
 So far missing the following:
 Madrid 2019, Exercises and results
 Leon 2018-2019, Exercises and results
