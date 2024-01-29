@@ -15,6 +15,7 @@ NOTA: Madrid2018.pdf no incluye soluciones y ha sido levemente garabateada ya qu
 <h3>Credit</h3>
 Madrid 2018 problems https://github.com/angelsenra/hpcodewars-madrid-2018
 
+Most of the other problems and classifications were obtained by looking through official HP Websites ([HP SCDS](https://hpscds.com/), [HPCodewarsBCN](https://codewarsbcn.hpcloud.hp.com/) and the [deprecated HPCodewarsBCN](https://hpcodewarsbcn.com)) on  [the wayback machine](https://web.archive.org/)
 
 <h3>Missing files</h3>
 So far missing the following:
